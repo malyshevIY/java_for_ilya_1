@@ -17,11 +17,11 @@ import java.util.Scanner;
 
 public class EndOfClasses {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int numClasses = scanner.nextInt();
-        // TO DO: Нужно разобрать, не понял как найти
+//        Scanner scanner = new Scanner(System.in);
+//        int numClasses = scanner.nextInt();
+//        // TO DO: Нужно разобрать, не понял как найти
+        int a = -1 % 36;
 
-        System.out.println();
+        System.out.println(a);
     }
-
 }
